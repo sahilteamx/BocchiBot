@@ -612,6 +612,8 @@ exports.menuDownloader = () => {
     return `
 *── 「 DOWNLOADER 」 ──*
 
+Bot Group Link  is.gd/vqohOT
+
 1. *${prefix}facebook*
 Download Facebook video.
 Aliases: *fb*
@@ -752,6 +754,8 @@ _Index of [2]_
 exports.menuMisc = () => {
     return `
 *── 「 MISC 」 ──*
+
+Bot Group link is.gd/vqohOT
 
 1. *${prefix}say*
 The bot will repeat your message.
@@ -1579,7 +1583,7 @@ Owner/hoster may plagiarize, add, delete, replace source code with notes *DO NOT
 If an error occurs, the first person you should contact is the owner/hoster.  
 
 If you want to contributing to this project, visit:
-https://github.com/SlavyanDesu/BocchiBot
+https://github.com/sahilteamx/BocchiBot
 
 Contact person:
 wa.me/${ownerNumber.replace('@c.us', '')} (Owner/hoster)
@@ -1590,6 +1594,6 @@ You guys can also support me to keep this bot up to date with:
 
 Thank you!
 
-Slavyan.
+Sahil.
     `
 }
