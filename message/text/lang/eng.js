@@ -1590,7 +1590,7 @@ wa.me/${ownerNumber.replace('@c.us', '')} (Owner/hoster)
 wa.me/6281294958473 (Developer)
 
 You guys can also support me to keep this bot up to date with:
-081294958473 (OVO/Telkomsel/GoPay)
+08601600591 (paytm/paytm/paytm)
 
 Thank you!
 
