@@ -62,7 +62,7 @@
 # Installation
 ## 📝 Cloning this repo
 ```cmd
-> git clone https://github.com/SlavyanDesu/BocchiBot.git
+> git clone https://github.com/sahilteamx/BocchiBot
 > cd BocchiBot
 ```
 
@@ -70,7 +70,7 @@
 Edit the required value in `config.json`.
 ```json
 {
-    "ownerBot": "62812xxxxxxxx@c.us", 
+    "ownerBot": "wa.me/13068000149", 
     "prefix": "$",
     "uaOverride": "WhatsApp/2.2037.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36",
     "nao": "api-key",
@@ -78,7 +78,7 @@ Edit the required value in `config.json`.
     "melodic": "administrator",
     "tobz": "BotWeA",
     "lol": "api-key",
-    "authorStick": "@SlavyanDesu",
+    "authorStick": "@Sahil",
     "packStick": "BocchiBot"
 }
 ```
